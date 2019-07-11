@@ -1,0 +1,5 @@
+./credentials.csv
+./notes-app-api/node_modules
+./notes-app-client/node_modules
+./test.pem
+./test1.pem
